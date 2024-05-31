@@ -1,0 +1,22 @@
+[1. Video Player : add a video player that supports playing same video at different qualities eg 320p, 480p, 720p, 1080p etc
+
+2.Add groups : add people to create group and invite others in their group. Users should be able to search these groups.]
+
+3. if we watch 1 video we should allocate 5 points in the user profile account.. if they watch 2 videos we should create 10 points under profile section
+ 
+
+4. Create a feature to upgrade the plan to Bronze , silver and Gold . For free plan user can only watch videos for 5 mins . For Bronze plan user can watch videos for 7 mins. 
+  For Silver plan they can watch videos for 10 mins and for gold plan they can watch videos unlimited time. Bronze cost 10rs, silver cost 50rs and gold cost 100rs . 
+we should trigger an email to user once payment is succesful and share an invoice. we should have random coupon generation on the payment page where if we apply coupon we can get 10% coupon code.
+
+5. Change the website color or theme according to time of login and location . If we access the website between 10 AM to 12 Pm as well as if the location is south india (Tamil nadu, Kerala, karnataka, Andhra and Telungana) we should keep white theme and 
+  for other timing and other states we should keep dark theme . If the user login by 1 PM we should not show the web page and say like website is under maintance from 1 PM to 2 PM after 2 PM before 1 Pm we can login .
+  if the user login from southern states(Tamil nadu, Kerala, karnataka, Andhra and Telungana) we should trigger an email for OTP Verification if the user login from other states we should trigger an OTP through mobile number.
+
+6. Add a Custom Video Player: Integrate a custom video player into the website with gesture-based controls. For instance, when users double-tap on the right side, the playback will move 10 seconds forward. Similarly, 
+if they double-tap on the left side, the playback should go 10 seconds backward. If the user single-taps in the middle of the screen, the playback should pause. if the user use three-taps on middle of screen we should move to next video.
+if they user use three-taps on right side we should close the website likewise if the user use 3 taps on left side we should show the comment section.
+ If the user use single tap on top right corner we should show current location and temperature like a popup message on notification. If we hold right side video show play 2X speed and if we hold left side the video should play 2X slow.
+
+7.VoIP: Incorporate a feature into the web app that allows users to make video calls to their friends and share screen of youtube website and we should have option to record the video session and save it in local, 
+We can do video call only after 6 PM to 12 AM and before that we should disable the video call option

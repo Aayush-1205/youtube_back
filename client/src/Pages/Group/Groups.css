@@ -1,0 +1,15 @@
+.container_group{
+    color: white;
+    padding: 2vw;
+    background-color: black;
+    width: 100%;
+    height: calc(100vh - 3.4rem);
+    overflow-y: auto;
+}
+
+.container_group h1{
+    font-size: 2rem;
+    font-weight: 600;
+    margin-bottom: 2vw;
+    text-align: center;
+}
